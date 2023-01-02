@@ -5,3 +5,5 @@
 @@||subscribepage.com^
 @@||subscribepage.io^
 @@||mailerlite.com^
+@@||mailersend.net^
+@@||mailersend.com^

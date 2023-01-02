@@ -1,0 +1,7 @@
+! Unblocks MailerLite domains from popular AdBlock software (uBlock origin, adGuard Home, piHole)
+@@||mlsend.com^
+@@||mlsend2.com^
+@@||mlflow.com^
+@@||subscribepage.com^
+@@||subscribepage.io^
+@@||mailerlite.com^

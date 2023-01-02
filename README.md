@@ -1,0 +1,1 @@
+Unblocks MailerLite domains from popular AdBlock software (uBlock origin, adGuard Home, piHole).

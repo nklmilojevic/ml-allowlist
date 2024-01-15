@@ -7,3 +7,4 @@
 @@||mailerlite.com^
 @@||mailersend.net^
 @@||mailersend.com^
+@@||mailerlite.io^

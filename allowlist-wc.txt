@@ -1,0 +1,9 @@
+*.mlsend.com
+*.mlsend2.com
+*.mlflow.com
+*.subscribepage.com
+*.subscribepage.io
+*.mailerlite.com
+*.mailersend.net
+*.mailersend.com
+*.mailerlite.io
